@@ -28,14 +28,14 @@ bash <(curl -sSL https://linuxmirrors.cn/docker.sh)
 
 ```bash
 cd /path/to/your/project
-curl -o docker-compose.yml https://raw.githubusercontent.com/CoreRing/NapCat-Docker-Template/main/docker-compose.yml
+curl -o docker-compose.yml https://raw.githubusercontent.com/KaguyaRing/NapCat-Docker-Template/main/docker-compose.yml
 ```
 
 或者使用Github代理：
 
 ```bash
 cd /path/to/your/project
-curl -sSL-o docker-compose.yml https://gh-proxy.org/https://raw.githubusercontent.com/CoreRing/NapCat-Docker-Template/main/docker-compose.yml
+curl -sSL-o docker-compose.yml https://gh-proxy.org/https://raw.githubusercontent.com/KaguyaRing/NapCat-Docker-Template/main/docker-compose.yml
 ```
 
 > 此处的 `/path/to/your/project` 需要替换为你希望存放 `docker-compose.yml` 文件的实际路径。
@@ -96,11 +96,11 @@ NapCat 支持多种对接方式，您可以参考官方文档进行配置：
 ## 许可
 
 本项目采用 [MIT](LICENSE)许可，这意味着您可以自由地使用、修改和分发本项目。
-如有任何问题，欢迎提交 [issue](https://github.com/CoreRing/Template/issues)。
+如有任何问题，欢迎提交 [issue](https://github.com/KaguyaRing/Template/issues)。
 
 ## 贡献
 
-欢迎任何形式的贡献！如果您有任何建议或改进，请随时提交 [pull request](https://github.com/CoreRing/Template/pulls)。
+欢迎任何形式的贡献！如果您有任何建议或改进，请随时提交 [pull request](https://github.com/KaguyaRing/Template/pulls)。
 
 ## 致谢
 
